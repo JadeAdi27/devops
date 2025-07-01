@@ -50,3 +50,6 @@ public class MyAppTest {
 </dependencies>
 -------------------------------
   gradle init
+
+
+    for gradel go to properties go to that perticular file open cmd on that path and run gradel init
